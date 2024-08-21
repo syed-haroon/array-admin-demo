@@ -1,1 +1,0 @@
-import{_ as e,o as s,c,a as o}from"./index-BsTiFGNy.js";const t={},a={class:"about"},n=o("h1",null,"This is a channels page",-1),_=[n];function r(i,l){return s(),c("div",a,_)}const h=e(t,[["render",r]]);export{h as default};
