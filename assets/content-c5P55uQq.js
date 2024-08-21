@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,a as s}from"./index-C3hAiQLT.js";const c={},n={class:"about"},a=s("h1",null,"This is a content page",-1),_=[a];function r(i,d){return t(),o("div",n,_)}const f=e(c,[["render",r]]);export{f as default};
