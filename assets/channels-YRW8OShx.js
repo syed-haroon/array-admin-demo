@@ -1,0 +1,1 @@
+import{at as e,l as s,m as t,J as c}from"./index-BWhdlq3p.js";const a={},n={class:"about"},o=c("h1",null,"This is a channels page",-1),_=[o];function r(l,i){return s(),t("div",n,_)}const h=e(a,[["render",r]]);export{h as default};

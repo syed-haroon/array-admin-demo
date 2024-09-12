@@ -1,1 +1,0 @@
-import{at as e,l as t,m as s,J as o}from"./index-DidGPDv3.js";const c={},n={class:"about"},a=o("h1",null,"This is a content page",-1),_=[a];function r(i,d){return t(),s("div",n,_)}const f=e(c,[["render",r]]);export{f as default};
