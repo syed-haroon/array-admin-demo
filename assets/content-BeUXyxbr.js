@@ -1,1 +1,0 @@
-import{ax as e,B as t,C as s,W as o}from"./index-ZVblBrNF.js";const c={},n={class:"about"},a=o("h1",null,"This is a content page",-1),_=[a];function r(i,d){return t(),s("div",n,_)}const f=e(c,[["render",r]]);export{f as default};
